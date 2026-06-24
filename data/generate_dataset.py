@@ -1,6 +1,5 @@
 """
 Script to generate a realistic synthetic student performance dataset.
-Run this once to create students.csv before training the model.
 """
 
 import numpy as np
