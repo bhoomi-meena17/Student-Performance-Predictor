@@ -1,5 +1,4 @@
 """
-student_performance/src/pipeline.py
 Full ML pipeline: data loading → cleaning → EDA → feature engineering →
 label encoding → Linear Regression → evaluation → model persistence.
 """
